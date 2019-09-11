@@ -1,5 +1,6 @@
 # Compiled files
 *.py[cdo]
+*.mp3
 
 # Egg metadata
 *.egg-info
