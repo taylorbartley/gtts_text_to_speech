@@ -15,7 +15,6 @@ pytest-cov = "*"
 pytest-html = "*"
 pytest-mock = "*"
 sphinx = "*"
-pylint = "*"
 
 [requires]
 python_version = "3.7"
@@ -25,4 +24,3 @@ allow_prereleases = true
 
 [packages]
 gtts = "*"
-pylint = "*"
